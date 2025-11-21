@@ -1,0 +1,44 @@
+[
+{
+    "imagem": "assents/img/Nexora.png",
+    "nome": "Nexora",
+    "descricao": "HTML, Css, Js, Python, Flask, Json, SQLite, e Procfile",
+    "tag": "WEB DESIGN",
+    "link": "https://lojavirtual-u4pn.onrender.com/"
+},
+{
+    "imagem": "assents/img/PyLoad.png",
+    "nome": "PyLoad",
+    "descricao": "HTML, Css, Js, Python, Flask, yt-dlp e Gunicorn",
+    "tag": "WEB DESIGN",
+    "link": "https://pyload-1bjv.onrender.com/"
+},
+{
+    "imagem": "assents/img/MindTutor.png",
+    "nome": "MIND TUTOR",
+    "descricao": "HTML, Css, Js, Python, Flask, SQLite e Json",
+    "tag": "WEB DESIGN",
+    "link": "https://projeto-mind-tutor.vercel.app/index.html"
+},
+{
+    "imagem": "assents/img/GameDesign.png",
+    "nome": "Game Design",
+    "descricao": "Figma",
+    "tag": "UX DESIGN",
+    "link": "https://www.instagram.com/reel/DQ1XA2HjtfU/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+},
+{
+    "imagem": "assents/img/NIKE.jpg",
+    "nome": "Nike",
+    "descricao": "Figma",
+    "tag": "UX DESIGN",
+    "link": "https://www.instagram.com/reel/DQzySvjkidh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+},
+{
+    "imagem": "assents/img/Corre4.jpg",
+    "nome": "Corre 4",
+    "descricao": "Figma",
+    "tag": "UX DESIGN",
+    "link": "https://www.instagram.com/reel/DQwp00MDckN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+}
+]
